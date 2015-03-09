@@ -1,0 +1,9 @@
+[Pluma Plugin]
+Loader=python
+Module=zencoding
+IAge=2
+Name=Zen Coding
+Description=Enables Zen Coding's CSS and HTML tools for Pluma.
+Authors=Joao Manoel <joaomanoel7@gmail.com>, Franck Marcia <franck.marcia@gmail.com>, Mike Crittenden <mike@mikethecoder.com>
+Copyright=Joao Manoel <joaomanoel7@gmail.com>\nFranck Marcia <franck.marcia@gmail.com>\nMike Crittenden <mike@mikethecoder.com>
+Website=http://github.com/jmanoel7/pluma-plugins-0
